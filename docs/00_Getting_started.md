@@ -21,7 +21,7 @@ Step by step
 3. Select the Databox object and go to the <strong>config menu.</strong>
 
 <br>
-<img src="img/isLocalization.png">
+![isLocalization](img/isLocalization.png)  
 <br>
 <br>
 4. Set "is localization table" to true. This will enable localization features for this specific Databox object.
