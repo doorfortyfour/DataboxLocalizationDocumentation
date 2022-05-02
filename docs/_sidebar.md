@@ -6,3 +6,11 @@
 - [Localization Components](/04_Localization_Components.md)
 - [Change language](/05_Change_Language.md)
 - [CSV Google Import](/06_CSV_Google_Import.md)
+- API
+  * [SetLanguage]
+  * [SetLanguageISOCode]
+  * [GetCurrentLanguageKey]
+  * [GetCurrentLanguageISO]
+  * [GetText]
+  * [GetAsset]
+  * [GetLanguages]
