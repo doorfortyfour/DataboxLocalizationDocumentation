@@ -7,10 +7,13 @@
 - [Change language](/05_Change_Language.md)
 - [CSV Google Import](/06_CSV_Google_Import.md)
 - API
-  * [SetLanguage]
-  * [SetLanguageISOCode]
-  * [GetCurrentLanguageKey]
-  * [GetCurrentLanguageISO]
-  * [GetText]
-  * [GetAsset]
-  * [GetLanguages]
+  * [SetLanguage](/07_API/00_DataboxLocalization/01_SetLanguage.md)
+  * [SetLanguageISOCode](/07_API/00_DataboxLocalization/02_SetLanguageISOCode.md)
+  * [GetCurrentLanguageKey](/07_API/00_DataboxLocalization/03_GetCurrentLanguageKey.md)
+  * [GetCurrentLanguageISO](/07_API/00_DataboxLocalization/04_GetCurrentLanguageIso.md)
+  * [GetText](/07_API/00_DataboxLocalization/05_GetText.md)
+  * [GetAsset](/07_API/00_DataboxLocalization/06_GetAsset.md)
+  * [GetLanguages](/07_API/00_DataboxLocalization/07_GetLanguages.md)
+  * Events
+   * [OnLocalizationReady](/07_API/00_DataboxLocalization/00_Events/00_OnLocalizationReady.md)
+   * [OnLanguageChanged](/07_API/00_DataboxLocalization/00_Events/01_OnLanguageChanged.md)
