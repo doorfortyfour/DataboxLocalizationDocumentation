@@ -20,7 +20,7 @@ Step by step
 2. Create a new Databox object by right click in the projects view and select: <strong>Create / Databox / new Databox object</strong>
 3. Select the Databox object and go to the <strong>config menu.</strong>
 
-[isLocalization](img/isLocalization.png)  
+![isLocalization](img/isLocalization.png)  
 
 4. Set "is localization table" to true. This will enable localization features for this specific Databox object.
 
